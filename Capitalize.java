@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hello {
+public class Capitalize {
 
     public static void main(String[] args) {
 		//Your Code Here
